@@ -31,7 +31,8 @@ print(C)
 
 ## Output:
 
-<img width="926" height="131" alt="Screenshot 2025-08-19 at 20 55 08" src="https://github.com/user-attachments/assets/706b32e2-b45b-4db0-a4b1-cad563a09293" />
+<img width="1230" height="740" alt="image" src="https://github.com/user-attachments/assets/ac45842b-56f0-4499-8614-268fa6045c04" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
